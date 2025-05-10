@@ -1,3 +1,9 @@
+<p align="center" style="margin-top: 25px; margin-bottom: 25px;">
+  <img src="https://github.com/DraugrPrime/DraugrPrime/blob/main/draugrprime-banner-github.jpg?raw=true" 
+       alt="DraugrPrime GitHub banner — Creative Technologist & UI/UX Engineer" 
+       width="100%" style="border-radius: 12px;">
+</p>
+
 <h1 align="center">🧠 DraugrPrime</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Project-FragmentZero-0f9fd4?style=for-the-badge&logo=github&logoColor=white">
