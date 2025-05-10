@@ -1,6 +1,7 @@
 <h1 align="center">🧠 DraugrPrime</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Project-FragmentZero-0f9fd4?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Type-Cinematic_UI%2FUX_Engine-6f42c1?style=for-the-badge&logo=visualstudio&logoColor=white">
 </p>
 <p align="center">
   <em>Creative Technologist | Cinematic Web Architect | UI/UX Designer</em><br>
