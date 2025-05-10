@@ -32,3 +32,10 @@
 
 ### 🛠 Tools & Skills
 HTML • CSS • JavaScript • GitHub Desktop • Visual Studio Code • AI Storyboarding • Figma • Photoshop • After Effects
+
+---
+
+## 📚 Project Documentation
+
+- [Getting Started](https://github.com/DraugrPrime/DraugrPrime/blob/main/docs/getting-started.md)
+- [FragmentZero Design System](https://github.com/DraugrPrime/DraugrPrime/blob/main/docs/fragmentzero-design-system.md)
