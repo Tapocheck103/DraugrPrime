@@ -77,4 +77,4 @@ This document outlines the core design principles, tools, and practices behind t
 
 ---
 
-> This system is designed to be scalable, cinematic, and immersive — no matter how many chapters FragmentZero expands into.
+> This system is designed to be scalable, cinematic, and immersive — no matter how many chapters FragmentZero expands into. 
