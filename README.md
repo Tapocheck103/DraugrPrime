@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">🧠 DraugrPrime</h1>
+<p align="center">
+  <em>Creative Technologist | Cinematic Web Architect | UI/UX Designer</em><br>
+  Building worlds like <strong>FragmentZero</strong> — where storytelling meets code.
+</p>
 
-<!--
-**DraugrPrime/DraugrPrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Current Focus
+- 🧠 Expanding FragmentZero’s design system
+- 🌐 Mastering custom web storytelling pipelines (HTML/CSS/JS/AI)
+- 🎨 Integrating with ArtStation & Behance workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌎 Portfolio Links
+- 🔗 [FragmentZero Live Website](https://fragment-zero-project.netlify.app)
+- 🎨 [Behance Portfolio](https://www.behance.net/jeroidjero)
+- ⚔️ [ArtStation](https://www.artstation.com/draugrprime)
+
+---
+
+### 🛠 Tools & Skills
+HTML • CSS • JavaScript • GitHub Desktop • Visual Studio Code • AI Storyboarding • Figma • Photoshop • After Effects
